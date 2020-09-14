@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello RKU</string>
+    <string name="txtWelcomeMessage">Welcome To RK University</string>
+</resources>
